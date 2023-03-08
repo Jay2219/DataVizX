@@ -1,6 +1,6 @@
 ## DataVizX
 
-This is a simple data explorer app built with [Streamlit](tiny.cc/DataVizX). 
+This is a simple data explorer app built with [Streamlit](https://jay2219-datavizx-app-22m62g.streamlit.app/). 
 
 By Using This app you can explore your data and get some insights about it.
 
