@@ -1,3 +1,4 @@
 pip===23.0.1
 streamlit===1.19.0
 matplotlib===3.7.1
+seaborn===0.12.2
